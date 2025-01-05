@@ -25,6 +25,7 @@ public class Problem27 {
             System.out.print(nums[i]+" ");
         }
         System.out.println();
+        obj.close();
     }
 }
 class Solution27A{
