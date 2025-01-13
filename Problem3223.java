@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class Problem3223{
-    // Minimum Length of string after Operation
+    // Minimum Length of String After Operation
     public static void main(String[] args) {
         Scanner obj=new Scanner(System.in);
         int t=obj.nextInt();
